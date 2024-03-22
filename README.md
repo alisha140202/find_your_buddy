@@ -1,5 +1,4 @@
-# MERN Stack Project: ![l](https://github.com/alisha140202/find_your_buddy/assets/102052712/af6954c3-3d71-4a4b-a705-cd9c17aa43a0) Find Your Buddy
-
+# MERN Stack Project: ![l1](https://github.com/alisha140202/find_your_buddy/assets/102052712/79c103de-f833-4208-8ef8-c0b2c775d82e)FindYour Buddy
 
 # Features used
 <div align="center"><span style="font-size:100px;">Tech Stack</span></div>
