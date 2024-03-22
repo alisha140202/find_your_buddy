@@ -1,13 +1,15 @@
 # MERN Stack Project: Find Your Buddy
 
 # Features Used
-- 🌟 Tech stack: MERN <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>     +   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="sockect.io" width="80" height="20"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="socket.io" width="100" height="20"/> ![d](https://github.com/alisha140202/find_your_buddy/assets/102052712/b5c8d1f1-9cd9-4a3b-a782-e63a55dc16c7)   ![ss3](https://github.com/alisha140202/find_your_buddy/assets/102052712/f80ef2e9-4bdb-48f4-ba2b-4f8510b5a58f)
+- 🌟 Tech stack: MERN <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>     +   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="sockect.io" width="80" height="20"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="socket.io" width="100" height="20"/>  ![ss4](https://github.com/alisha140202/find_your_buddy/assets/102052712/d432a446-cb83-4e66-bac6-9fb3335bf0eb)  ![ss6](https://github.com/alisha140202/find_your_buddy/assets/102052712/8420d246-1a54-44a4-bed5-17a5bc22b91f)
+
+![ss3](https://github.com/alisha140202/find_your_buddy/assets/102052712/f80ef2e9-4bdb-48f4-ba2b-4f8510b5a58f)
 
 
 
--   🎃 Authentication && Authorization with **JWT**
+-   🎃 Authentication && Authorization with **JWT** ![ss5](https://github.com/alisha140202/find_your_buddy/assets/102052712/dc0d4387-a81a-41c0-b0f3-a2f53a2c8bac)
+-   🚀 Online user status (**Socket.io and React Context**) ![ss4](https://github.com/alisha140202/find_your_buddy/assets/102052712/d432a446-cb83-4e66-bac6-9fb3335bf0eb)
 -   👾 Real-time messaging with **Socket.io**
--   🚀 Online user status (**Socket.io and React Context**)
 -   👌 Global state management with **Zustand**
 -   🐞 Error handling both on the server and on the client
 
