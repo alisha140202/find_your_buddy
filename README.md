@@ -1,6 +1,6 @@
-### Find your Buddy
+# Find your Buddy
+![L7](https://github.com/alisha140202/find_your_buddy/assets/102052712/e4ba9d3d-be8d-4acd-a0a5-8565497c9b12)
 
-<div align="center"># ![L7](https://github.com/alisha140202/find_your_buddy/assets/102052712/e4ba9d3d-be8d-4acd-a0a5-8565497c9b12)</div>
 Find-Your-Buddy is a feature-rich chat application designed to facilitate seamless communication between users. Leveraging modern technologies such as MERN stack (MongoDB, Express.js, React.js, and Node.js) and Socket.IO, our application ensures real-time messaging capabilities. With a user-friendly interface, users can engage in private or group chats effortlessly. The integration of JWT enhances security, offering encrypted authentication and authorization for user privacy. Our chat application aims to redefine online communication, providing a reliable and secure platform for meaningful interactions.
 
 # Features used
