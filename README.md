@@ -1,11 +1,7 @@
 # MERN Stack Project: Find Your Buddy
 
 # Features Used
-- 🌟 Tech stack: MERN          ![m](https://github.com/alisha140202/find_your_buddy/assets/102052712/63624a4a-ccc7-4d90-9970-78f45de6eca0)  ![e](https://github.com/alisha140202/find_your_buddy/assets/102052712/2c82d11f-a430-4b59-b0d8-b5c3babe8472)  ![r](https://github.com/alisha140202/find_your_buddy/assets/102052712/8608c0d6-9161-4b45-9e71-6e375ef09848)   ![n](https://github.com/alisha140202/find_your_buddy/assets/102052712/2bcde0be-14a1-488b-91ba-f4e388c4f205)   +   
-![s](https://github.com/alisha140202/find_your_buddy/assets/102052712/a61a1961-5233-4e28-94ab-84adf1d16405)   ![t](https://github.com/alisha140202/find_your_buddy/assets/102052712/017291e2-b5f4-46b3-8b39-94e012d13dbe)   ![d](https://github.com/alisha140202/find_your_buddy/assets/102052712/2475380f-0981-4656-bafc-b1a35baf2c9c)
-
-
-
+- 🌟 Tech stack: MERN <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>     +   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="sockect.io" width="80" height="80"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="socket.io" width="100" height="100"/> + Daisy UI
 
 -   🎃 Authentication && Authorization with **JWT**
 -   👾 Real-time messaging with **Socket.io**
