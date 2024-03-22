@@ -1,11 +1,12 @@
 # MERN Stack Project: ![l](https://github.com/alisha140202/find_your_buddy/assets/102052712/af6954c3-3d71-4a4b-a705-cd9c17aa43a0) Find Your Buddy
 
 
-# Features Used
-- 🌟 Tech stack: **MERN**👉 ![ss11](https://github.com/alisha140202/find_your_buddy/assets/102052712/74e2bc81-7e35-4c08-9da0-b4c0a17ea2be)   ![ss12](https://github.com/alisha140202/find_your_buddy/assets/102052712/48068b99-2557-4431-9ea5-3a3455f62494)   ![ss13](https://github.com/alisha140202/find_your_buddy/assets/102052712/820fe2cb-5842-4118-a748-af7cf6b2a0d1)   ![ss14]
--✨ Other features: ![ss4](https://github.com/alisha140202/find_your_buddy/assets/102052712/d432a446-cb83-4e66-bac6-9fb3335bf0eb)   ![ss5](https://github.com/alisha140202/find_your_buddy/assets/102052712/dc0d4387-a81a-41c0-b0f3-a2f53a2c8bac)   ![ss6](https://github.com/alisha140202/find_your_buddy/assets/102052712/8420d246-1a54-44a4-bed5-17a5bc22b91f)   ![ss3](https://github.com/alisha140202/find_your_buddy/assets/102052712/f80ef2e9-4bdb-48f4-ba2b-4f8510b5a58f)   ![ss7](https://github.com/alisha140202/find_your_buddy/assets/102052712/0c8b1d4b-bfa4-45e3-84ab-8cb3e422b937)   ![ss8](https://github.com/alisha140202/find_your_buddy/assets/102052712/3952287a-34cc-4ec3-8f69-c37345b5f21e)
+# Features used
+ ![ss11](https://github.com/alisha140202/find_your_buddy/assets/102052712/74e2bc81-7e35-4c08-9da0-b4c0a17ea2be)   ![ss12](https://github.com/alisha140202/find_your_buddy/assets/102052712/48068b99-2557-4431-9ea5-3a3455f62494)  
+ ![ss14](https://github.com/alisha140202/find_your_buddy/assets/102052712/3b8795f4-bae8-466a-a1f6-0153ca10c80d)
+ ![ss4](https://github.com/alisha140202/find_your_buddy/assets/102052712/d432a446-cb83-4e66-bac6-9fb3335bf0eb)   ![ss5](https://github.com/alisha140202/find_your_buddy/assets/102052712/dc0d4387-a81a-41c0-b0f3-a2f53a2c8bac)   ![ss6](https://github.com/alisha140202/find_your_buddy/assets/102052712/8420d246-1a54-44a4-bed5-17a5bc22b91f)   ![ss3](https://github.com/alisha140202/find_your_buddy/assets/102052712/f80ef2e9-4bdb-48f4-ba2b-4f8510b5a58f)   ![ss7](https://github.com/alisha140202/find_your_buddy/assets/102052712/0c8b1d4b-bfa4-45e3-84ab-8cb3e422b937)   ![ss8](https://github.com/alisha140202/find_your_buddy/assets/102052712/3952287a-34cc-4ec3-8f69-c37345b5f21e)
 
-# Explanation of features Used
+# Explanation of features used
 -   🚀 Stores and Manages the chat data efficiently with **MongoDB**.
 -   🍒 Created dynamic user interface that update in real-time, providing seamless interaction and responsiveness for users as they send and receive messages with **React.js**.
 -   👌  Build the server-side logic, handled HTTP requests, managed routing and provided middleware functionalities with **Express.js**.
@@ -43,6 +44,3 @@ npm run build
 ```shell
 npm start
 ```
-
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>     +     Socket.io<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="sockect.io" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" alt="socket.io" width="40" height="40"/> + Daisy UI
