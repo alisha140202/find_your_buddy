@@ -7,13 +7,13 @@
 -   👾 Real-time messaging with **Socket.io**
 -   🚀 Online user status (**Socket.io and React Context**)
 -   👌 Global state management with **Zustand**
--   🐞 Error handling both on the server and on the client
+-   🐞** Error handling** both on the server and on the client
 
 # Overview
 ![Screenshot 2024-03-22 013229](https://github.com/alisha140202/find_your_buddy/assets/102052712/a846afb2-2c1d-45ea-aced-5ded71f671e8)
 
 # Deployment
-- Project is deployed on ![screenshot1](https://github.com/alisha140202/find_your_buddy/assets/102052712/2874699a-30bb-4dbe-8b3f-89b86a9080e6)<img src ="C:\Users\PRAVEENA KESHARWANI\OneDrive\gate courses\lab\DSA lab coding\Pictures\Screenshots" alt ="Screenshot" width=30 height="30">
+- Project is deployed on ![screenshot1](https://github.com/alisha140202/find_your_buddy/assets/102052712/2874699a-30bb-4dbe-8b3f-89b86a9080e6)
 - Project is live on https://find-your-buddy-uuqm.onrender.com/
 
 # Setup of .env file
